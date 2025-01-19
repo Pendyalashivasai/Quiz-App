@@ -68,17 +68,17 @@ flutter run
 ## Screenshots
 
 ### Home Screen
-<img src="assets/screenshots/home_screen.png" alt="Home Screen" width="300"/>
+<img src="assets/screenshots/home_screen.jpg" alt="Home Screen" width="300"/>
 
 ### Quiz Screen
-<img src="assets/screenshots/quiz_screen.png" alt="Quiz Screen" width="300"/>
+<img src="assets/screenshots/quiz_screen.jpg" alt="Quiz Screen" width="300"/>
 
 ### Results Screen
-<img src="assets/screenshots/results_screen.png" alt="Results Screen" width="300"/>
+<img src="assets/screenshots/results_screen.jpg" alt="Results Screen" width="300"/>
 
 ## API Integration
 
-**Endpoint**: `https://api.jsonserve.com/Uw5CrX`
+
 
 **Response Format**:
 ```json
